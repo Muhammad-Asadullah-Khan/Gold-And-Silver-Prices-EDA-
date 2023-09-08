@@ -4,43 +4,43 @@ In this portfolio project, I conducted an Exploratory Data Analysis (EDA) on bot
 
 ###### Tasks performed :
 1. Data Import and Preparation:
-Imported historical gold and silver price data in CSV format.
-
+Imported historical gold and silver price data in CSV format. | 
 Cleaned and preprocessed the data to handle missing values and outliers.
 
 3. Silver and Gold Price Analysis:
-Conducted exploratory analysis to understand trends and patterns in both silver and gold prices.
+Conducted exploratory analysis to understand trends and patterns in both silver and gold prices. | 
 
-Calculated descriptive statistics, including mean, median, and standard deviation for both metals.
+Calculated descriptive statistics, including mean, median, and standard deviation for both metals. | 
 
-Identified fluctuations and anomalies in both silver and gold prices.
+Identified fluctuations and anomalies in both silver and gold prices. 
 
 4. Visualization:
-Utilized Matplotlib and Seaborn to create a variety of visualizations.
+Utilized Matplotlib and Seaborn to create a variety of visualizations. | 
 
-Produced line charts to visualize price trends over time for both silver and gold.
+Produced line charts to visualize price trends over time for both silver and gold. | 
 
-Created box plots to display price distributions and variations for both metals.
+Created box plots to display price distributions and variations for both metals. | 
 
 Designed heatmaps and correlation matrices to explore relationships within the datasets.
 
 5. Conclusions and Insights:
-Summarized key findings from the analyses of both precious metals.
+Summarized key findings from the analyses of both precious metals. | 
 
-Presented insights into the behavior of gold and silver prices.
+Presented insights into the behavior of gold and silver prices. | 
 
 Discussed any notable correlations or anomalies discovered during the combined analysis.
 
 
 ###### Tools used :
-Python
+Python :- 
 
-Pandas for data manipulation
+Pandas for data manipulation | 
 
-NumPy for numerical computations
+NumPy for numerical computations | 
 
-Matplotlib and Seaborn for data visualization
+Matplotlib and Seaborn for data visualization | 
 
 CSV files for data storage and import
+
 
 This portfolio project showcases my proficiency in conducting comprehensive data analysis and visualization on precious metal prices, offering insights into their historical behavior and potential relationships between them.
