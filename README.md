@@ -1,8 +1,8 @@
-## Gold-And-Silver-Prices-EDA-
-# Overview :
+# Gold-And-Silver-Prices-EDA-
+## Overview :
 In this portfolio project, I conducted an Exploratory Data Analysis (EDA) on both gold and silver prices using Python and various data manipulation and visualization libraries. I imported historical price data in CSV format, structured it for analysis, and performed analyses on both precious metals. Visualizations were created to enhance data insights and communicate findings effectively.
 
-# Tasks performed :
+## Tasks performed :
 1. Data Import and Preparation:
 Imported historical gold and silver price data in CSV format.
 Cleaned and preprocessed the data to handle missing values and outliers.
@@ -24,7 +24,7 @@ Presented insights into the behavior of gold and silver prices.
 Discussed any notable correlations or anomalies discovered during the combined analysis.
 
 
-# Tools used :
+## Tools used :
 Python
 Pandas for data manipulation
 NumPy for numerical computations
